@@ -15,8 +15,8 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I am a Software Engineer from Kazakhstan🇰🇿
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 🔭 I am a Software Engineer Student from Kazakhstan🇰🇿
+- :zap: In my free time, I solve problems on LeetCode and read tech articles.
 - 👩‍🎓 second year student at Astana IT University
 - 
 
