@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/eldana-kadenova-11659a225/">
+  <a href="https://www.linkedin.com/in/eldanakadenova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br><br>
@@ -15,10 +15,10 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I am a Software Engineer Student from Kazakhstan🇰🇿
+- 🔭 iOS developer with 2 years 🇰🇿
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- 👩‍🎓 second year student at Astana IT University
-- 
+- 👩‍🎓 Bachelor of Software Engineering
+- 👩‍🎓 Master's degree in Computer Science
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
