@@ -13,12 +13,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-
-- 🔭 iOS developer with 2 years 🇰🇿
-- :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- 👩‍🎓 Bachelor of Software Engineering
-- 👩‍🎓 Master's degree in Computer Science
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
