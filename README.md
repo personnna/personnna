@@ -2,13 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fswift%2Fcomments%2F1iypui2%2Fwill_we_ever_see_swift_assist_in_xcode16%2F&psig=AOvVaw19BNGEj71Pame0hFousQPY&ust=1741275701241000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiH_e6j84sDFQAAAAAdAAAAABAE)" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/eldanakadenova/">
-    <h1> Connect in LinkedIn </h1>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <br><br>
