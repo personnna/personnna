@@ -1,14 +1,8 @@
-# 👋 Hi there, I'm Yeldana Kadenova
-
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldanakadenova/)
 </div>
-
-## 👨‍💻 About Me
-
-I'm an iOS Developer with experience in building mobile applications from scratch. Currently pursuing my Master's in Software Development and Computer Science at Ca-Foscari University in Venice, Italy. I specialize in Swift development and have a strong background in creating user-friendly, high-performance applications with a focus on security and optimization.
 
 ## 🛠️ Languages and Tools
 
