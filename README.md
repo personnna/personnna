@@ -1,64 +1,40 @@
-<h1 align="center">Hi there, I'm Eldana Kadenova! 👋</h1>
+# 👋 Hi there, I'm Yeldana Kadenova
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eldanakadenova/)
 </div>
 
-## 🚀 About Me  
-I'm an **iOS Developer** passionate about creating seamless mobile experiences. With a background in **Software Engineering**, I specialize in **Swift**, **Objective-C**, and modern **iOS frameworks**. I'm also exploring **backend development** and **full-stack technologies** to expand my skill set.  
+## 👨‍💻 About Me
 
-🌍 Currently based in **Venice, Italy** 🎓 Pursuing my **Master’s in Software Engineering & Computer Science**  
-📚 Constantly learning about **Swift Concurrency, AI in Mobile Development, and Open-Source Contributions**  
-💡 Building a **Kazakh localization library** for iOS to enhance multilingual support  
-🎯 Preparing for **FAANG-level interviews** while working on **personal and freelance projects**  
+I'm an iOS Developer with experience in building mobile applications from scratch. Currently pursuing my Master's in Software Development and Computer Science at Ca-Foscari University in Venice, Italy. I specialize in Swift development and have a strong background in creating user-friendly, high-performance applications with a focus on security and optimization.
 
----
+## 🛠️ Languages and Tools
 
-## 🛠️ Tech Stack  
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
----
+### iOS Development Expertise
+- **Frameworks**: UIKit, SwiftUI, Core Data, Core Animation, Core Graphics, MapKit, ARKit, CloudKit, AVFoundation, CoreMotion, SiriKit
+- **Libraries**: SnapKit, Alamofire, SwiftyJSON, Kingfisher, Realm, RXSwift, Combine, Lottie, Firebase SDK, SkeletonView
 
-## 🔥 Projects & Contributions  
-- 🚀 **[Kazakh Localization Library](https://github.com/your-repo)** – A Swift package improving **Kazakh language support** in iOS apps  
-- 🏆 **[Ozinshe](https://github.com/your-repo)** – Developed a **children’s mobile app** with educational content  
-- 📱 **[Social Networking App](https://github.com/your-repo)** – Currently designing an **iOS social media platform**  
-- 🛠️ **[GitHub OAuth Integration](https://github.com/your-repo)** – Implemented secure authentication for **iOS apps**  
-
----
-
-## 📫 Let's Connect!  
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/eldanakadenova/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-  <a href="https://twitter.com/your-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
----
-
-⭐ **Fun Fact**: I love **teaching**, **vlogging**, and sharing knowledge through **open-source projects** and **tech blogs**!  
-💬 Feel free to reach out for **collaborations, mentorship, or coffee chats**!  
-
----
-
-<p align="center">Made with ❤️ by Eldana</p>
+## 📫 How to reach me:
+- 📱 Phone: +7-747-961-43-04
+- 📧 Email: kadyelyer@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/eldanakadenova/)
+- 💻 [GitHub](https://github.com/personnna)
