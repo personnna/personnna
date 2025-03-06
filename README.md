@@ -8,6 +8,7 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/objectivec/objectivec-plain.svg" title="Objective-C" alt="Objective-C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -19,16 +20,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
 ### iOS Development Expertise
 - **Frameworks**: UIKit, SwiftUI, Core Data, Core Animation, Core Graphics, MapKit, ARKit, CloudKit, AVFoundation, CoreMotion, SiriKit
 - **Libraries**: SnapKit, Alamofire, SwiftyJSON, Kingfisher, Realm, RXSwift, Combine, Lottie, Firebase SDK, SkeletonView
-
-## 📫 How to reach me:
-- 📱 Phone: +7-747-961-43-04
-- 📧 Email: kadyelyer@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/eldanakadenova/)
-- 💻 [GitHub](https://github.com/personnna)
